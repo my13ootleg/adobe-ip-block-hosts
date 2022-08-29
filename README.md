@@ -14,5 +14,11 @@ Access the following directory in Windows Explorer.
 
 Overwrite the hosts file.
 
+## Use without overwriting the hosts file
+The hosts file can be additioned to rather than overwritten.
+
+1. open the file C:\Windows\system32\drivers\etc\hosts with a code editor such as VSCode.
+2. Add to the last line.
+
 ## CAUTION
 Back up your hosts file before using it. Updating the hosts file may result in incorrect activation of your Adobe license.
