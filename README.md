@@ -10,7 +10,9 @@ Use only **hosts.csv**. **hosts-default.csv** should be used when you want to re
 The following apps have confirmed this.
 
 - After Effects 22.1
+- Animate 22.0
 - Audition 22.1
+- Character Animator 22.1
 - Illustrator 26.0
 - InDesign 17.0
 - Lightroom 4.2
