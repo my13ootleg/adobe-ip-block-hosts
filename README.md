@@ -6,7 +6,7 @@ A hosts file for Windows OS to avoid excessive communication for Adobe apps.
 
 Use only **hosts.csv**. **hosts-default.csv** should be used when you want to restore the hosts file to its initial state.
 
-## Confirme apps
+## Confirmed apps
 The following apps have confirmed this.
 
 - After Effects 22.1
