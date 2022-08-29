@@ -4,7 +4,7 @@ A hosts file for Windows OS to avoid excessive communication for Adobe apps.
 
 ## USAGE
 
-### Remove the extension
+### Delete the extension
 Delete the **.csv** extension.
 
 ### Overwrite hosts file
