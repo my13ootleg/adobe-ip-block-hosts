@@ -10,10 +10,13 @@ Use only **hosts.csv**. **hosts-default.csv** should be used when you want to re
 The following apps have confirmed this.
 
 - After Effects 22.1
+- Audition 22.1
 - Illustrator 26.0
 - InDesign 17.0
+- Lightroom 4.2
 - Photoshop 23.1
 - Premiere Pro 22.1
+- XD 47.0
 
 ### Delete the extension
 
