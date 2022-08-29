@@ -2,9 +2,18 @@
 
 A hosts file for Windows OS to avoid excessive communication for Adobe apps.
 
-## USAGE
+## Usage
 
 Use only **hosts.csv**. **hosts-default.csv** should be used when you want to restore the hosts file to its initial state.
+
+## Confirme apps
+The following apps have confirmed this.
+
+- After Effects 22.1
+- Illustrator 26.0
+- InDesign 17.0
+- Photoshop 23.1
+- Premiere Pro 22.1
 
 ### Delete the extension
 
