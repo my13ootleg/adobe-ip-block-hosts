@@ -3,6 +3,7 @@
 A hosts file for Windows OS to avoid excessive communication for Adobe apps. 
 
 ## USAGE
+Use only **hosts.csv**. **hosts-default.csv** should be used when you want to restore the hosts file to its initial state.
 
 ### Delete the extension
 Delete the **.csv** extension.
