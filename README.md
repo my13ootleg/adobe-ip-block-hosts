@@ -3,6 +3,11 @@
 A hosts file for Windows OS to avoid excessive communication for Adobe apps. 
 
 ## USAGE
+
+### Remove the extension
+Delete the hosts**.md** extension.
+
+### Override hosts
 Access the following directory in Windows Explorer.
 
 ```C:\Windows\System32\drivers\etc```
