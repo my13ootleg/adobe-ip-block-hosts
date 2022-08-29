@@ -1,4 +1,4 @@
-# adobe-ip-block-hosts
+# adobe-ip-blocker
 
 A hosts file for Windows OS to avoid excessive communication for Adobe apps. 
 
