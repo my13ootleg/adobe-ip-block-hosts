@@ -19,7 +19,7 @@ Overwrite the hosts file.
 ## Use without overwriting the hosts file
 The hosts file can be additioned to rather than overwritten.
 
-open the file `C:\Windows\system32\drivers\etc\hosts` with a code editor such as [VSCode]([URL](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)).
+open the file `C:\Windows\system32\drivers\etc\hosts` with a code editor such as [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/).
 
 ```
 # Copyright (c) 1993-2009 Microsoft Corp.
@@ -68,10 +68,12 @@ Add to the last line.
 #　127.0.0.1　　　　　　localhost
 #　::1　　　　　　　　　localhost
 
-127.0.0.1 adobe.com
+<font color="red">127.0.0.1 adobe.com
 127.0.0.1 www.adobe.com
-:
+:</font>
 ```
+
+Overwrite with Ctrl+S.
 
 ## CAUTION
 Back up your hosts file before using it. Updating the hosts file may result in incorrect activation of your Adobe license.
