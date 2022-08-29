@@ -68,9 +68,9 @@ Add to the last line.
 #　127.0.0.1　　　　　　localhost
 #　::1　　　　　　　　　localhost
 
-<font color="red">127.0.0.1 adobe.com
+<span style="color:red;">127.0.0.1 adobe.com</span>
 127.0.0.1 www.adobe.com
-:</font>
+:
 ```
 
 Overwrite with Ctrl+S.
