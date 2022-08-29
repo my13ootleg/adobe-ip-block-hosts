@@ -41,7 +41,8 @@ The hosts file can be additioned to rather than overwritten.
 1. Open the file `C:\Windows\system32\drivers\etc\hosts` with a code editor such as [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/).
 2. Add to the last line.
 3. Ctrl+S to save.
+4. Make sure it does not have an extension such as **.txt**. If the extension is attached, delete it.
 
 ## CAUTION
 
-Back up your hosts file before using it. Updating the hosts file may result in incorrect activation of your Adobe license.
+Back up your hosts file before using it. Updating the hosts file may result in incorrect activation of your Adobe license. If you encounter problems, you can restore the hosts file to its initial state by overwriting it with **hosts-default.csv**.
