@@ -1,4 +1,6 @@
-A hosts file for Windows to avoid excessive communication for Adobe apps. 
+# adobe-ip-block-hosts
+
+A hosts file for Windows OS to avoid excessive communication for Adobe apps. 
 
 ## USAGE
 Access the following directory in Windows Explorer.
