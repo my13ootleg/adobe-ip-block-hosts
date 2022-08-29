@@ -5,7 +5,7 @@ A hosts file for Windows OS to avoid excessive communication for Adobe apps.
 ## USAGE
 
 ### Remove the extension
-Delete the **.md** extension.
+Delete the **.csv** extension.
 
 ### Override hosts
 Access the following directory in Windows Explorer.
