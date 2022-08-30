@@ -10,6 +10,7 @@ The following apps have confirmed this.
 - Audition 22.1
 - Character Animator 22.1
 - Dreamweaver 21.1
+- Fresco 3.8
 - Illustrator 26.0
 - InDesign 17.0
 - Lightroom 4.2
