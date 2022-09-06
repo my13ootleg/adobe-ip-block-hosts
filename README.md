@@ -20,11 +20,7 @@ The following apps have confirmed this.
 
 ## Usage
 
-Use only **hosts.csv**. **hosts-default.csv** should be used when you want to restore the hosts file to its initial state.
-
-### Delete the extension
-
-Delete the **.csv** extension.
+Use only **hosts**. **hosts-default** should be used when you want to restore the hosts file to its initial state.
 
 ### Overwrite hosts file
 
