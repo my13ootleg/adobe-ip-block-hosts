@@ -15,6 +15,7 @@ The following apps have confirmed this.
 - InDesign 17.0
 - Lightroom 4.2
 - Photoshop 23.1
+  - Not available in versions above 23.1.
 - Premiere Pro 22.1
 - XD 47.0
 
