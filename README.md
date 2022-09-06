@@ -43,4 +43,4 @@ The hosts file can be additioned to rather than overwritten.
 
 ## Caution
 
-Back up your hosts file before using it. Updating the hosts file may result in incorrect activation of your Adobe license. If you encounter problems, you can restore the hosts file to its initial state by overwriting it with **hosts-default.csv**.
+Back up your hosts file before using it. Updating the hosts file may result in incorrect activation of your Adobe license. If you encounter problems, you can restore the hosts file to its initial state by overwriting it with **hosts-default**.
